@@ -13,10 +13,14 @@ the original flow.
 Implement Erosion as though it were a regular Minecraft feature making the world
 more dynamic. It should not break existing gameplay or enable cheating.
 
-## Videos
+## Media
 
+[![Water Erosion Mod Playlist](https://i.imgur.com/azPKFFY.png)](https://www.youtube.com/watch?v=ZQbcPGYTRvA&list=PLFgkjwcnVWJXh0zbaWK0F6OyW_pZOFS9d)
+
+* **[Screenshots](https://www.curseforge.com/minecraft/mc-mods/water-erosion/screenshots)**
+* [Real Time Waterfall Erosion - High Speed Video](https://www.youtube.com/watch?v=ZQbcPGYTRvA)
 * [Taiga Forest Creeks - High Speed Erosion](https://www.youtube.com/watch?v=N29mWO8NTOU)
-* [Tour of Three Savanna Waterfalls - Erosion Complete](https://www.youtube.com/watch?v=Gi73OZ0hbqE)
+* [Three Savanna Waterfalls - Erosion Complete](https://www.youtube.com/watch?v=Gi73OZ0hbqE)
 
 ## Install
 
